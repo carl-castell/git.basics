@@ -1,5 +1,3 @@
 const test = () => {
-  return "fjnkfrnvkej";
+  return "hallo paulo";
 };
-
-test();
